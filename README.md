@@ -9,7 +9,7 @@ In this code I made a simple Gallery code which shows how many photos are there 
 
 ![image](https://github.com/Student-Abhishekkumar/Simple-Gallery-GUI/assets/158078358/e6120a1a-96cf-4a1d-83e1-75dcf8b841b3)
 
-##Main GUI CODE:-
+## Main GUI CODE:-
 
 ```python
 from tkinter import *
@@ -75,7 +75,7 @@ count=Label(win,text="Image 1 of " +str(len(img_list)),borderwidth=1,relief=SUNK
 win.mainloop()
 ```
 
-##Import file for images:-
+## Import file for images:-
 
 ```python
 from tkinter import *
